@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for help with **Mechanical Engineering**
 
-- 👨‍💻 All of my projects are available at [denystran.me](denystran.me)
+- 👨‍💻 All of my projects are available at [denystran.net](denystran.net)
 
 - 📫 How to reach me **duc.tran0502@hcmut.edu.vn**
 
