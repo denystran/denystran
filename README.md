@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/denystran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="denystran" height="30" width="40" /></a>
 <a href="https://fb.com/denystran.05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="denystran.05" height="30" width="40" /></a>
-<a href="https://instagram.com/mduc0502" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mduc0502" height="30" width="40" /></a>
+<a href="https://instagram.com/dzs1w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mduc0502" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
